@@ -1,7 +1,7 @@
 # Data Professional Survey Dashboard
 
 ## 📊 Project Overview
-This project aims to analyze survey data from data professionals to uncover insights on:
+This project analyzes survey data from data professionals to uncover insights on:
 - **Work/Life Balance happiness**.
 - **Satisfaction with salary**.
 - **Favorite programming languages**.
@@ -9,6 +9,13 @@ This project aims to analyze survey data from data professionals to uncover insi
 - **Demographics distribution by country**.
 
 The dashboard was created using **Power BI** to visualize the data interactively and provide easy-to-understand insights.
+
+---
+
+## 🖼 Dashboard Overview
+Below is a screenshot of the dashboard:
+
+![Dashboard Overview](Dashboard/Dashboard_Picture.png)
 
 ---
 
@@ -35,3 +42,5 @@ The dashboard was created using **Power BI** to visualize the data interactively
    - A **Treemap** is used to display the distribution of respondents by country.
 
 ---
+
+
