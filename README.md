@@ -35,18 +35,3 @@ The dashboard was created using **Power BI** to visualize the data interactively
    - A **Treemap** is used to display the distribution of respondents by country.
 
 ---
-
-## 📂 Repository Structure
-```plaintext
-data-professional-survey-dashboard/
-├── README.md                     # Project documentation
-├── dashboard/
-│   ├── survey_dashboard.pbix     # Power BI file
-│   ├── screenshots/
-│       ├── dashboard_overview.png # Screenshot of the dashboard
-├── data/
-│   ├── raw_survey_data.csv        # Raw dataset (if available)
-│   ├── transformed_data.csv       # Transformed dataset (optional)
-├── docs/
-│   ├── data_transformation.md     # Explanation of data transformation process
-│   ├── dashboard_features.md      # Explanation of dashboard features
